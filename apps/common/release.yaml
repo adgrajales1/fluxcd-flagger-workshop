@@ -19,7 +19,7 @@ spec:
   # https://github.com/stefanprodan/podinfo/blob/master/charts/podinfo/values.yaml
   values:
     image:
-      tag: 6.0.0
+      tag: 6.0.1
     redis:
       enabled: true
       repository: public.ecr.aws/docker/library/redis
